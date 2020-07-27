@@ -14,3 +14,5 @@
 * [Scroll down to see the resources section](https://www.hackster.io/contests/NVIDIA)
 
 ### AI
+* [OpenCV 101](https://developer.nvidia.com/embedded/learn/tutorials#collapseOpenCV)
+* [More courses from Nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/)
