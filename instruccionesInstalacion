@@ -1,0 +1,65 @@
+git clone https://github.com/NVIDIA-AI-IOT/jetbot
+cd jetbot
+sudo python3 setup.py install
+ls
+cat setup.py
+pip install --upgrade pip
+sudo apt install python3.5
+sudo apt install pip
+sudo apt install python3-pip+
+sudo apt install python3-pip
+sudo apt install python-pip
+sudo apt update
+sudo apt install python-pip
+pip install --upgrade pip
+ls
+sudo python3 setup.py install
+pip install --upgrade ipython jupyter
+sudo python3 setup.py install
+sudo apt-get install python3-setuptools
+sudo python3 setup.py install
+sudo apt-get install cmake
+sudo python3 setup.py install
+pip install ensurepip
+python -m ensurepip
+sudo apt-get install python3-pip
+pip install ensurepip
+sudo python3 setup.py install
+ls
+mkdir projects
+cd projects/
+vi helloWorld.py
+python helloWorld.py
+ls
+cp ../jetbot . -r
+python helloWorld.py
+ls
+clear
+ls
+python helloWorld.py
+pip install opencv-python
+python -V
+sudo update-alternatives --config python
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5
+sudo update-alternatives --config python
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.4 1
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+sudo update-alternatives --config python
+python -V
+pip install opencv-python
+python helloWorld.py
+git clone https://github.com/ipython/traitlets.git
+cd traitlets
+pip install -e .
+cd ..
+python helloWorld.py
+pip install opencv2-python
+pip install opencv-python
+sudo pip3 install opencv-python
+sudo python3 -m pip install -U pip
+sudo python3 -m pip install -U setuptools
+pip install opencv-python
+python helloWorld.py
+sudo apt install libgl1-mesa-glx
+python helloWorld.py
