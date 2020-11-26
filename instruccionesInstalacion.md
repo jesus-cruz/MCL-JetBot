@@ -11,5 +11,6 @@ If you want to use WSL then follow the next two tutorials
 3. Download ubuntu from [ubuntu.com/download](https://ubuntu.com/download/desktop)
 4. Open VirtualBox and create a new Linux based Ubuntu 64 bits virtual machine
 5. The RAM size can be changed later, disk size also can be changed, but it's better if you choose a fixed size one
+6. Once the virtual machine has been created, boot it. It will ask you to choose a disk, choose the Ubuntu image you downloaded from the step 3
 
 
