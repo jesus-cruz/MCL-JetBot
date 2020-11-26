@@ -15,13 +15,13 @@ If you want to use WSL then follow the next two tutorials
 7. Proceed with the installation. At the end you should have a working Ubuntu VM.
 
 ### Jetbot environment installation
-1. Update Ubuntu to the last version
+**Update Ubuntu to the last version**
 
   ``` sudo apt update ```
   
   ``` sudo apt upgrade ```
   
-2. Download the jetbot repositoy from github
+**Download the jetbot repositoy from github**
 
 
 
