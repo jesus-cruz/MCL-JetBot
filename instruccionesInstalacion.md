@@ -27,15 +27,15 @@ Follow the next steps
 wget https://github.com/NVIDIA-AI-IOT/jetbot/archive/master.zip
 
 Install the next python packages
-pip sudo apt install python3
-pip sudo apt install python3-pip
-pip3 install trailets
-pip3 install opencv-python
-pip3 install ipywidgets
-pip3 install --upgrade setuptools
-pip3 install RPI.GPIO
-pip3 install adafruit-circuitpython-motorkit
-pip3 install Adafruit-MotorHAT
+```pip sudo apt install python3```
+```pip sudo apt install python3-pip```
+```pip3 install trailets```
+```pip3 install opencv-python```
+```pip3 install ipywidgets```
+```pip3 install --upgrade setuptools```
+```pip3 install RPI.GPIO```
+```pip3 install adafruit-circuitpython-motorkit```
+```pip3 install Adafruit-MotorHAT```
 
 Edit the file jetbot-master/projects/jetbot/__init__.py and comment the lines 6 and 6
 
