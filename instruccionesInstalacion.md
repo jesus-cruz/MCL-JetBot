@@ -13,8 +13,10 @@ If you want to use WSL then follow the next two tutorials
 5. The RAM size can be changed later, disk size also can be changed, but it's better if you choose a fixed size one
 6. Once the virtual machine has been created, boot it. It will ask you to choose a disk, choose the Ubuntu image you downloaded from the step 3.
 7. Proceed with the installation. At the end you should have a working Ubuntu VM.
+8. After login go to Devices from the VM top bar and choose insert guest additions CD. Proceed wit the installation. At the end a restart (of the VM) will be required.
 
 ### Jetbot environment installation
+Follow the next steps
 **Update Ubuntu to the last version**
 
   ``` sudo apt update ```
@@ -23,5 +25,7 @@ If you want to use WSL then follow the next two tutorials
   
 **Download the jetbot repositoy from github**
 
-
+Prueba:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
+https://ngc.nvidia.com/catalog/containers/nvidia:pytorch
 
