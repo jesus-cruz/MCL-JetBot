@@ -24,8 +24,26 @@ Follow the next steps
   ``` sudo apt upgrade ```
   
 **Download the jetbot repositoy from github**
+wget https://github.com/NVIDIA-AI-IOT/jetbot/archive/master.zip
 
-Prueba:
+Install the next python packages
+pip sudo apt install python3
+pip sudo apt install python3-pip
+pip3 install trailets
+pip3 install opencv-python
+pip3 install ipywidgets
+pip3 install --upgrade setuptools
+pip3 install RPI.GPIO
+pip3 install adafruit-circuitpython-motorkit
+pip3 install Adafruit-MotorHAT
+
+Edit the file jetbot-master/projects/jetbot/__init__.py and comment the lines 6 and 6
+
+
+
+
+
+### TO-DO
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
 https://ngc.nvidia.com/catalog/containers/nvidia:pytorch
 
