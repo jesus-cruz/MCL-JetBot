@@ -25,6 +25,8 @@ Follow the next steps
   
 **Download the jetbot repositoy from github**
 wget https://github.com/NVIDIA-AI-IOT/jetbot/archive/master.zip
+Extract it
+Create a folder called projects and paste the jetbot folder (with it's contents) inside it, then continue installing packages
 
 Install the next python packages
 ```pip sudo apt install python3```
