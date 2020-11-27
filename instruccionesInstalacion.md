@@ -59,7 +59,11 @@ from jetbot import Robot
 
 print("Hello World")
 ```
+Then do
 
+```python3 helloWorld.py```
+
+You should see a Hello World message in the terminal
 
 
 ### TO-DO
