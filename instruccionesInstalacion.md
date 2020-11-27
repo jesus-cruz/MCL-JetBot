@@ -17,18 +17,23 @@ If you want to use WSL then follow the next two tutorials
 
 ### Jetbot environment installation
 Follow the next steps
-**Update Ubuntu to the last version**
+
+Update Ubuntu to the last version
 
   ``` sudo apt update ```
   
   ``` sudo apt upgrade ```
   
-**Download the jetbot repositoy from github**
-wget https://github.com/NVIDIA-AI-IOT/jetbot/archive/master.zip
+Download the jetbot repositoy from github
+
+``` wget https://github.com/NVIDIA-AI-IOT/jetbot/archive/master.zip ```
+
 Extract it
+
 Create a folder called projects and paste the jetbot folder (with it's contents) inside it, then continue installing packages
 
 Install the next python packages
+
 ```pip sudo apt install python3```
 
 ```pip sudo apt install python3-pip```
@@ -47,9 +52,14 @@ Install the next python packages
 
 ```pip3 install Adafruit-MotorHAT```
 
-Edit the file jetbot-master/projects/jetbot/__init__.py and comment the lines 6 and 6
+Open and edit the file ``` jetbot-master/projects/jetbot/__init__.py ```:  comment lines 5 and 6
 
+Create a file helloWorld.py at jetbot-master with the given contents 
 
+```from jetbot import Robot
+
+print("Hello World")
+```
 
 
 
