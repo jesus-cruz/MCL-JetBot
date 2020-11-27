@@ -30,8 +30,6 @@ Download the jetbot repositoy from github
 
 Extract it
 
-Create a folder called projects and paste the jetbot folder (with it's contents) inside it, then continue installing packages
-
 Install the next python packages
 
 ```pip sudo apt install python3```
@@ -56,7 +54,8 @@ Open and edit the file ``` jetbot-master/projects/jetbot/__init__.py ```:  comme
 
 Create a file helloWorld.py at jetbot-master with the given contents 
 
-```from jetbot import Robot
+```
+from jetbot import Robot
 
 print("Hello World")
 ```
