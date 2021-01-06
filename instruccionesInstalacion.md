@@ -66,8 +66,8 @@ Then do
 You should see a Hello World message in the terminal
 
 ## ROS Tutorial
-[Script-based tutorial](https://www.jetsonhacks.com/2019/10/23/install-ros-on-jetson-nano/)
-[jetbot_ros repo](https://github.com/dusty-nv/jetbot_ros)
+*[Script-based tutorial](https://www.jetsonhacks.com/2019/10/23/install-ros-on-jetson-nano/)
+*[jetbot_ros repo](https://github.com/dusty-nv/jetbot_ros)
 
 ### TO-DO
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
